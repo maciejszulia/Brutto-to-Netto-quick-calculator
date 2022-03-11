@@ -1,3 +1,9 @@
+"""
+Author: Maciej Szulia
+ver: 0.1.0
+
+"""
+
 import tkinter as tk
 import pyperclip
 
