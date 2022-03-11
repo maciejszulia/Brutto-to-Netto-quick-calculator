@@ -1,9 +1,6 @@
-import tkinter
 import tkinter as tk
-from tkinter import ttk
-import random
 import pyperclip
-import string
+
 
 root = tk.Tk()
 
